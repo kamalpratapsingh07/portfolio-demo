@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Personal Portfolio Website
 
 A responsive personal portfolio website presenting Kamal Pratap Singh's profile, technical skills, selected project work, education, professional experience, and contact links.
@@ -155,6 +154,3 @@ This acknowledgment describes the development assistance used; it does not claim
 ## Status
 
 ...........................?
-=======
-# portfolio-demo
->>>>>>> cfbecfd55760b09aee9bd3d324c082795a2121b8
